@@ -1,8 +1,7 @@
 {
   "name": "Ankamantatra",
-  "description": "Ankamantatra taloha tany @Neny",
+  "description": "Ankamantatra Malalgasy taloha",
   "version": "1.0",
-  "category": "Fampiononona",
   "template": [{"0":"question","1":"response"}],
   "content": [
     {"0":"Alao ny atiny, alao ny havokavony, avelao izy hijaingy","1":"Lakana"},

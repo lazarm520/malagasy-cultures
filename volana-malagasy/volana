@@ -1,0 +1,20 @@
+{
+  "name": "Volana",
+  "description": "Volana Malagasy",
+  "version": "1.0",
+  "template": [{"MG":"Malagasy","ZO":"Zodiac","AR":"Arabe","MG2":"Sens","GR":"Gregorian"}],
+  "content": [
+    {"MG":"Alahamady","ZO":"Ariès","AR":"Al-h'amal","MG2":"Asarabe","GR":"March-April"},
+    {"MG":"Adaoro","ZO":"Taurus","AR":"Ath-thaûr","MG2":"Vatravatra","GR":"April-May"},
+    {"MG":"Adizaozy","ZO":"Gemini","AR":"Al-dzaûza","MG2":"Asotry","GR":"May-June"},
+    {"MG":"Asorotany","ZO":"Cancer","AR":"As-sarat ân","MG2":"Hatsiha","GR":"June-July"},
+    {"MG":"Alahasaty","ZO":"Leo","AR":"Al-asad","MG2":"Volasira","GR":"July-August"},
+    {"MG":"Asombola","ZO":"Virgo","AR":"As-sumbula","MG2":"Fosa","GR":"August-September"},
+    {"MG":"Adimizana","ZO":"Libra","AR":"Al-mizan","MG2":"Maka","GR":"September-October"},
+    {"MG":"Alakarobo","ZO":"Scorpius","AR":"Al-aqrab","MG2":"Hiahia","GR":"October-November"},
+    {"MG":"Alakaoza","ZO":"Sagittarius","AR":"Al-qaûs","MG2":"Fisakamasay","GR":"November-December"},
+    {"MG":"Adijady","ZO":"Capricornus","AR":"Al-djadi","MG2":"Fisakavy","GR":"December-January"},
+    {"MG":"Adalo","ZO":"Aquarius","AR":"Ad-dalû","MG2":"Volombita","GR":"January-February"},
+    {"MG":"Alahotsy","ZO":"Pisces","AR":"Al-h'ût","MG2":"Asaramasay","GR":"February-March"}
+  ]
+}
