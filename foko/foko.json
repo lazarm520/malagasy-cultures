@@ -2,7 +2,7 @@
   "name": "Foko Malagasy",
   "description": "Ireo Foko Malagasy 18 sy ny Renivohiny",
   "version": "1.0",
-  "template": [{"Name":"Antambahoaka","FR":"Ceux du Peuple","Capital":"Mananjary","Zone":"Atsimo Atsinanana"}],
+  "template": [{"Name":"Antambahoaka","FR":"Ceux","Capital":"Mananjary","Zone":"Atsimo Atsinanana"}],
   "content": [
     {"Name":"Antambahoaka","FR":"Ceux du Peuple","Capital":"Mananjary","Zone":"Atsimo Atsinanana"},
     {"Name":"Antaimoro","FR":"Ceux des rives","Capital":"Vohipeno","Zone":"Atsimo Atsinanana"},
