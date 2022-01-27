@@ -1,0 +1,35 @@
+{
+  "name": "Foko Malagasy",
+  "description": "Ireo Foko Malagasy 18 sy ny Renivohiny",
+  "version": "1.0",
+  "template": [{"Name":"Antambahoaka","FR":"Ceux du Peuple","Capital":"Mananjary","Zone":"Atsimo Atsinanana"}],
+  "content": [
+    {"Name":"Antambahoaka","FR":"Ceux du Peuple","Capital":"Mananjary","Zone":"Atsimo Atsinanana"},
+    {"Name":"Antaimoro","FR":"Ceux des rives","Capital":"Vohipeno","Zone":"Atsimo Atsinanana"},
+    {"Name":"Zafisoro – Antaifasy","FR":"Ceux du sable","Capital":"Farafangana","Zone":"Atsimo Atsinanana"},
+    {"Name":"Antaisaka","FR":"Ceux de la vallée","Capital":"Vangaindrano","Zone":"Atsimo Atsinanana"},
+    {"Name":"Antanosy","FR":"Ceux des îles","Capital":"Taolagnaro","Zone":"Atsimo Atsinanana"},
+    {"Name":"Antandroy","FR":"Ceux des pays de ronces","Capital":"Ambovombe","Zone":"Atsimo"},
+    {"Name":"Mahafaly","FR":"Ceux qui rendent joyeux ou interdits","Capital":"Ampanihy","Zone":"Atsimo"},
+    {"Name":"Vezo","FR":"grands pêcheurs de la côte","Capital":"Toliara","Zone":"Atsimo"},
+    {"Name":"Bara","FR":"pasteurs des hautes terres","Capital":"Ihosy","Zone":"Atsimo","Types":[
+      {"Name":"Bara Iantsantsa","Capital":"Ivohibe"},
+      {"Name":"Bara Be","Capital":"Ihosy"},
+      {"Name":"Bara Vinda","Capital":"Onilahy"},
+      {"Name":"Bara Imamono"},
+      {"Name":"Bara Sahamasy"}
+    ]},
+    {"Name":"Sakalava","FR":"Ceux de la longue vallée","Zone":"Andrefana","Types":[
+      {"Name":"Sakalava an’i Menabe","Capital":"Morondava"},
+      {"Name":"Sakalava an’i Boina","Capital":"Mahajanga"}
+    ]},
+    {"Name":"Tsimihety","FR":"Ceux qui ne coupent pas les cheveux","Capital":"Antsohihy","Zone":"Avaratra"},
+    {"Name":"Antakarana","FR":"Ceux des rochers","Capital":"Antsiranana","Zone":"Avaratra"},
+    {"Name":"Betsimisaraka","FR":"les nombreux inséparables","Capital":"Toamasina","Zone":"Atsinanana"},
+    {"Name":"Sihanaka","FR":"habitants du lac","Capital":"Ambatondrazaka","Zone":"Atsinanana"},
+    {"Name":"Bezanozano","FR":"beaucoup de petites tresses","Capital":"Moramanga","Zone":"Atsinanana"},
+    {"Name":"Tanala","FR":"Ceux de la forêt","Capital":"Ikongo","Zone":"Atsinanana"},
+    {"Name":"Merina","FR":"Ceux des hautes terres","Capital":"Antananarivo","Zone":"Anivo"},
+    {"Name":"Betsileo","FR":"les nombreux invincibles","Capital":"Fianarantsoa","Zone":"Anivo"}
+  ]
+}
